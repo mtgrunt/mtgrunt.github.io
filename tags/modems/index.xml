@@ -10,12 +10,12 @@
     <webMaster>mileswallace@lavabit.com</webMaster>
     <lastBuildDate>Sat, 24 Dec 2022 23:37:36 -0800</lastBuildDate><atom:link href="https://mtgrunt.github.io/tags/modems/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Projects</title>
-      <link>https://mtgrunt.github.io/page/projects/</link>
+      <title>Project</title>
+      <link>https://mtgrunt.github.io/page/project/</link>
       <pubDate>Sat, 24 Dec 2022 23:37:36 -0800</pubDate>
       <author>mileswallace@lavabit.com</author>
       <guid>https://mtgrunt.github.io/page/projects/</guid>
-      <description>Coming Soon: Utilizing 4G LTE wireless modems on a Raspberry Pi 4.</description>
+      <description>02/18/2023: Utilizing 4G LTE wireless modems on a Raspberry Pi 4.</description>
     </item>
     
   </channel>
