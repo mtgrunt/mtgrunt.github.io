@@ -2,16 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://mtgrunt.github.io/page/building_a_hugo_website_with_github/</loc>
+    <lastmod>2023-03-05T23:37:36-08:00</lastmod>
+  </url><url>
+    <loc>https://mtgrunt.github.io/page/projects/</loc>
+    <lastmod>2023-03-05T23:37:36-08:00</lastmod>
+  </url><url>
+    <loc>https://mtgrunt.github.io/tags/github/</loc>
+    <lastmod>2023-03-05T23:37:36-08:00</lastmod>
+  </url><url>
+    <loc>https://mtgrunt.github.io/tags/hugo/</loc>
+    <lastmod>2023-03-05T23:37:36-08:00</lastmod>
+  </url><url>
+    <loc>https://mtgrunt.github.io/tags/hugo-website/</loc>
+    <lastmod>2023-03-05T23:37:36-08:00</lastmod>
+  </url><url>
+    <loc>https://mtgrunt.github.io/</loc>
+    <lastmod>2023-03-05T23:37:36-08:00</lastmod>
+  </url><url>
+    <loc>https://mtgrunt.github.io/page/</loc>
+    <lastmod>2023-03-05T23:37:36-08:00</lastmod>
+  </url><url>
+    <loc>https://mtgrunt.github.io/tags/</loc>
+    <lastmod>2023-03-05T23:37:36-08:00</lastmod>
+  </url><url>
     <loc>https://mtgrunt.github.io/tags/4g-lte/</loc>
     <lastmod>2023-02-18T23:37:36-08:00</lastmod>
   </url><url>
-    <loc>https://mtgrunt.github.io/</loc>
-    <lastmod>2023-02-18T23:37:36-08:00</lastmod>
-  </url><url>
     <loc>https://mtgrunt.github.io/tags/modems/</loc>
-    <lastmod>2023-02-18T23:37:36-08:00</lastmod>
-  </url><url>
-    <loc>https://mtgrunt.github.io/page/</loc>
     <lastmod>2023-02-18T23:37:36-08:00</lastmod>
   </url><url>
     <loc>https://mtgrunt.github.io/page/utilizing_4g_lte_wireless_modems_on_a_raspberry_pi_4/</loc>
@@ -21,9 +39,6 @@
     <lastmod>2023-02-18T23:37:36-08:00</lastmod>
   </url><url>
     <loc>https://mtgrunt.github.io/tags/raspberry-pi-4/</loc>
-    <lastmod>2023-02-18T23:37:36-08:00</lastmod>
-  </url><url>
-    <loc>https://mtgrunt.github.io/tags/</loc>
     <lastmod>2023-02-18T23:37:36-08:00</lastmod>
   </url><url>
     <loc>https://mtgrunt.github.io/tags/wireless/</loc>

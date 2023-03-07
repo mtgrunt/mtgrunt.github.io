@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on Miles Wallace</title>
+    <link>https://mtgrunt.github.io/tags/hugo/</link>
+    <description>Recent content in Hugo on Miles Wallace</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>mileswallace@lavabit.com</managingEditor>
+    <webMaster>mileswallace@lavabit.com</webMaster>
+    <lastBuildDate>Sun, 05 Mar 2023 23:37:36 -0800</lastBuildDate><atom:link href="https://mtgrunt.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building a Hugo Website with GitHub</title>
+      <link>https://mtgrunt.github.io/page/building_a_hugo_website_with_github/</link>
+      <pubDate>Sun, 05 Mar 2023 23:37:36 -0800</pubDate>
+      <author>mileswallace@lavabit.com</author>
+      <guid>https://mtgrunt.github.io/page/building_a_hugo_website_with_github/</guid>
+      <description>&amp;ldquo;Building a Hugo Website with GitHub.&amp;rdquo; 03/05/2023 Hugo is one of the fundamental static site generators to install because it’s distributed as a single binary.
+Install Hugo on your local machine. You can download the latest version of Hugo from the official website: https://gohugo.io/getting-started/installing/.
+Create a new Hugo site using the command line interface by typing the following command in your terminal or command prompt:
+hugo new site your-site-name
+This will create a new Hugo site in a folder named your-site-name.</description>
+    </item>
+    
+    <item>
+      <title>Building a Hugo Website with GitHub</title>
+      <link>https://mtgrunt.github.io/page/projects/</link>
+      <pubDate>Sun, 05 Mar 2023 23:37:36 -0800</pubDate>
+      <author>mileswallace@lavabit.com</author>
+      <guid>https://mtgrunt.github.io/page/projects/</guid>
+      <description>&amp;ldquo;Building a Hugo Website with GitHub.&amp;rdquo; 03/05/2023 Hugo is one of the fundamental static site generators to install because it’s distributed as a single binary.
+Install Hugo on your local machine. You can download the latest version of Hugo from the official website: https://gohugo.io/getting-started/installing/.
+Create a new Hugo site using the command line interface by typing the following command in your terminal or command prompt:
+hugo new site your-site-name
+This will create a new Hugo site in a folder named your-site-name.</description>
+    </item>
+    
+  </channel>
+</rss>
