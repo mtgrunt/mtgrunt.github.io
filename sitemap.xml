@@ -3,30 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://mtgrunt.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2015-01-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://mtgrunt.github.io/post/2015-01-04-first-post/</loc>
+    <loc>http://localhost:1313/post/2015-01-04-first-post/</loc>
     <lastmod>2015-01-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://mtgrunt.github.io/post/</loc>
+    <loc>http://localhost:1313/post/</loc>
     <lastmod>2015-01-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://mtgrunt.github.io/page/about/</loc>
+    <loc>http://localhost:1313/page/about/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://mtgrunt.github.io/page/</loc>
+    <loc>http://localhost:1313/page/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
