@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nfls on Miles Wallace</title>
+    <title>NFL on Miles Wallace</title>
     <link>http://localhost:1313/nfl/</link>
-    <description>Recent content in Nfls on Miles Wallace</description>
+    <description>Recent content in NFL on Miles Wallace</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; | Miles Wallace 2024 | All Rights Reserved |</copyright>
     <lastBuildDate>Sun, 30 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/nfl/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>NFL Test</title>
+      <title>NFL Lawsuit</title>
       <link>http://localhost:1313/nfl/nfl1/</link>
       <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/nfl/nfl1/</guid>
-      <description>NFL Test</description>
+      <description>The class action lawsuit against the National Football League (NFL), alleging price fixing in violation of federal antitrust laws regarding its Sunday Ticket service, has reached a significant verdict.</description>
       
     </item>
     
