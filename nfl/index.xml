@@ -15,7 +15,7 @@
       
       <guid>http://localhost:1313/nfl/nfl1/</guid>
       <description>The class action lawsuit against the National Football League (NFL), alleging price fixing in violation of federal antitrust laws regarding its Sunday Ticket service, has reached a significant verdict.</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/nfl/nfl1/featured.png" />
     </item>
     
   </channel>
