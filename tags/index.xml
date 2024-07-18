@@ -7,7 +7,47 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; | Miles Wallace 2024 | All Rights Reserved |</copyright>
-    <lastBuildDate>Wed, 03 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arizona Cardinals</title>
+      <link>http://localhost:1313/tags/arizona-cardinals/</link>
+      <pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/arizona-cardinals/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Llama</title>
+      <link>http://localhost:1313/tags/llama/</link>
+      <pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/llama/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Llama3</title>
+      <link>http://localhost:1313/tags/llama3/</link>
+      <pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/llama3/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>NFL</title>
+      <link>http://localhost:1313/tags/nfl/</link>
+      <pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/nfl/</guid>
+      <description></description>
+      
+    </item>
+    
     <item>
       <title>49ers</title>
       <link>http://localhost:1313/tags/49ers/</link>
@@ -84,6 +124,236 @@
       <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/python/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Distributed</title>
+      <link>http://localhost:1313/tags/distributed/</link>
+      <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/distributed/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Git</title>
+      <link>http://localhost:1313/tags/git/</link>
+      <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/git/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Git Add</title>
+      <link>http://localhost:1313/tags/git-add/</link>
+      <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/git-add/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Git Bash</title>
+      <link>http://localhost:1313/tags/git-bash/</link>
+      <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/git-bash/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Git Clone</title>
+      <link>http://localhost:1313/tags/git-clone/</link>
+      <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/git-clone/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Git Commit</title>
+      <link>http://localhost:1313/tags/git-commit/</link>
+      <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/git-commit/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Git Pull</title>
+      <link>http://localhost:1313/tags/git-pull/</link>
+      <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/git-pull/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Git Push</title>
+      <link>http://localhost:1313/tags/git-push/</link>
+      <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/git-push/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>GitHub</title>
+      <link>http://localhost:1313/tags/github/</link>
+      <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/github/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Homebrew</title>
+      <link>http://localhost:1313/tags/homebrew/</link>
+      <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/homebrew/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>http://localhost:1313/tags/linux/</link>
+      <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/linux/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Mac</title>
+      <link>http://localhost:1313/tags/mac/</link>
+      <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/mac/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>MacOS</title>
+      <link>http://localhost:1313/tags/macos/</link>
+      <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/macos/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Terminal</title>
+      <link>http://localhost:1313/tags/terminal/</link>
+      <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/terminal/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Windows</title>
+      <link>http://localhost:1313/tags/windows/</link>
+      <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/windows/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>4Kp60 HDMI Display</title>
+      <link>http://localhost:1313/tags/4kp60-hdmi-display/</link>
+      <pubDate>Sat, 30 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/4kp60-hdmi-display/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>I/O Performance</title>
+      <link>http://localhost:1313/tags/i/o-performance/</link>
+      <pubDate>Sat, 30 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/i/o-performance/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>MIP CSI/DSI Ports</title>
+      <link>http://localhost:1313/tags/mip-csi/dsi-ports/</link>
+      <pubDate>Sat, 30 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/mip-csi/dsi-ports/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>NVMe</title>
+      <link>http://localhost:1313/tags/nvme/</link>
+      <pubDate>Sat, 30 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/nvme/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>PCIe</title>
+      <link>http://localhost:1313/tags/pcie/</link>
+      <pubDate>Sat, 30 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/pcie/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>RAM</title>
+      <link>http://localhost:1313/tags/ram/</link>
+      <pubDate>Sat, 30 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/ram/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Raspberry Pi 5</title>
+      <link>http://localhost:1313/tags/raspberry-pi-5/</link>
+      <pubDate>Sat, 30 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/raspberry-pi-5/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Single-Board Computer</title>
+      <link>http://localhost:1313/tags/single-board-computer/</link>
+      <pubDate>Sat, 30 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/single-board-computer/</guid>
       <description></description>
       
     </item>
@@ -304,86 +574,6 @@
       <pubDate>Wed, 05 Apr 2023 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/wi-fi/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>4Kp60 HDMI Display</title>
-      <link>http://localhost:1313/tags/4kp60-hdmi-display/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/4kp60-hdmi-display/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>I/O Performance</title>
-      <link>http://localhost:1313/tags/i/o-performance/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/i/o-performance/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>MIP CSI/DSI Ports</title>
-      <link>http://localhost:1313/tags/mip-csi/dsi-ports/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/mip-csi/dsi-ports/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>NVMe</title>
-      <link>http://localhost:1313/tags/nvme/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/nvme/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>PCIe</title>
-      <link>http://localhost:1313/tags/pcie/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/pcie/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>RAM</title>
-      <link>http://localhost:1313/tags/ram/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/ram/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Raspberry Pi 5</title>
-      <link>http://localhost:1313/tags/raspberry-pi-5/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/raspberry-pi-5/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Single-Board Computer</title>
-      <link>http://localhost:1313/tags/single-board-computer/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/single-board-computer/</guid>
       <description></description>
       
     </item>

@@ -7,15 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; | Miles Wallace 2024 | All Rights Reserved |</copyright>
-    <atom:link href="http://localhost:1313/tags/mip-csi/dsi-ports/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 30 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/mip-csi/dsi-ports/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tech</title>
-      <link>http://localhost:1313/tech/tech1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <link>http://localhost:1313/tech/tech98/</link>
+      <pubDate>Sat, 30 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tech/tech1/</guid>
-      <description>&amp;ldquo;Raspberry Pi 5&amp;rdquo; # 2/30/2024 # The Raspberry Pi 5 represents a significant advancement in the world of single-board computers.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/tech/tech1/featured.png" />
+      <guid>http://localhost:1313/tech/tech98/</guid>
+      <description>&amp;ldquo;Raspberry Pi 5&amp;rdquo; # 03/30/2024 # The Raspberry Pi 5 represents a significant advancement in the world of single-board computers.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/tech/tech98/featured.png" />
     </item>
     
   </channel>

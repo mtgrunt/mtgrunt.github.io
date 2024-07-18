@@ -7,15 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; | Miles Wallace 2024 | All Rights Reserved |</copyright>
-    <lastBuildDate>Sun, 30 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/nfl/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/nfl/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>NFL Sunday Ticket Trial</title>
-      <link>http://localhost:1313/nfl/nfl1/</link>
+      <link>http://localhost:1313/nfl/nfl99/</link>
+      <pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/nfl/nfl99/</guid>
+      <description>&amp;ldquo;Arizona Cardinals.</description>
+      
+    </item>
+    
+    <item>
+      <title>NFL Sunday Ticket Trial</title>
+      <link>http://localhost:1313/nfl/nfl100/</link>
       <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/nfl/nfl1/</guid>
-      <description>The class action lawsuit against the National Football League (NFL), alleging price fixing in violation of federal antitrust laws regarding its Sunday Ticket service, has reached a significant verdict.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/nfl/nfl1/featured.png" />
+      <guid>http://localhost:1313/nfl/nfl100/</guid>
+      <description>&amp;ldquo;NFL Sunday Ticket Trial.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/nfl/nfl100/featured.png" />
     </item>
     
   </channel>
