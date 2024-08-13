@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; | Miles Wallace 2024 | All Rights Reserved |</copyright>
-    <lastBuildDate>Thu, 08 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/nfl/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/nfl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AFC West</title>
+      <link>http://localhost:1313/nfl/nfl94/</link>
+      <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/nfl/nfl94/</guid>
+      <description>&amp;ldquo;AFC West.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/nfl/nfl94/featured.png" />
+    </item>
+    
     <item>
       <title>NFC North</title>
       <link>http://localhost:1313/nfl/nfl95/</link>
