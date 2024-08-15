@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; | Miles Wallace 2024 | All Rights Reserved |</copyright>
-    <lastBuildDate>Tue, 13 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AFC East</title>
+      <link>http://localhost:1313/nfl/nfl92/</link>
+      <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/nfl/nfl92/</guid>
+      <description>&amp;ldquo;AFC East&amp;rdquo; # 08/14/2024 # Miami Dolphins (1) # Miami Dolphins made significant strides under the guidance of head coach Mike McDaniel.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/nfl/nfl92/featured.png" />
+    </item>
+    
     <item>
       <title>AFC South</title>
       <link>http://localhost:1313/nfl/nfl93/</link>
