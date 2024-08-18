@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; | Miles Wallace 2024 | All Rights Reserved |</copyright>
-    <lastBuildDate>Thu, 15 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/nfl/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/nfl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fantasy Football Preview</title>
+      <link>http://localhost:1313/nfl/nfl90/</link>
+      <pubDate>Sat, 17 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/nfl/nfl90/</guid>
+      <description>&amp;ldquo;Fantasy Football PPR&amp;rdquo; # 08/17/2024 # Player (Team/Bye) PPR Christian McCaffrey SF (9)CeeDee Lamb DAL (7)Tyreek Hill MIA (6)Justin Jefferson MIN (6)Ja&#39;Marr Chase CIN (12)Amon-Ra St.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/nfl/nfl90/featured.png" />
+    </item>
+    
     <item>
       <title>AFC North</title>
       <link>http://localhost:1313/nfl/nfl91/</link>
