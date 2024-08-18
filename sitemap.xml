@@ -3,6 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>http://localhost:1313/nfl/nfl89/</loc>
+    <lastmod>2024-08-17T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/nfl/nfl90/</loc>
     <lastmod>2024-08-17T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
